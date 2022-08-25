@@ -1,1 +1,3 @@
-Soluçoes que eu fiz para o URI JUDGE como treinamento
+# URI JUDGE PROBLEMS
+
+Some problems i solved while i was at a Programming Challengers group in university
